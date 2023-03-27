@@ -1,14 +1,6 @@
-<<<<<<< HEAD
 function b(){
 
 }
 function a(main){
 
-=======
-function a (feature){
-
-}
-function c(){
-    
->>>>>>> crash
 }
