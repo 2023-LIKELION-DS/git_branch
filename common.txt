@@ -1,16 +1,6 @@
-<<<<<<< HEAD
-function b(){
-
-
-}
-function a(main){
-=======
-function a(feature){
-
-
-}
-function c(){
->>>>>>> crash
-
-
-}
+2차 세션 과제를 위해 작성하였습니다.
+git이 더 익숙해질 수 있도록
+공부를
+혼자서 더 해야겠어요...
+멋사
+최고
