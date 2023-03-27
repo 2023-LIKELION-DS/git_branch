@@ -1,14 +1,7 @@
-<<<<<<< HEAD
-funtion b() {
-
-}
-funtion a(main) {
-=======
 function a(feature) {
 
 }
 
 function c() {
->>>>>>> crash
   
 }
