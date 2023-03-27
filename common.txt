@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+function b(){
+
+}
+function a(main){
+
+=======
+function a(feature){
+
+}
+functionc(){
+    
+>>>>>>> crash
+}
