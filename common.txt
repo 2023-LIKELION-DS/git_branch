@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+function b(feature)
+=======
+function a(feature){
+
+
+}
+function c(){
+    
+}
+>>>>>>> crash
