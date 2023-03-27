@@ -1,0 +1,11 @@
+fuction b(){
+
+}
+<<<<<<< HEAD
+function c(main){
+    
+=======
+function a(crash){
+
+>>>>>>> crash
+}
