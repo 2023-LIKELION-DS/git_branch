@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 function b(feature)(
 
 
 )
 function a(){
 
+=======
+function a(feature)(
+
+
+)
+function c(){
+    
+>>>>>>> crash
 }
