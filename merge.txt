@@ -1,0 +1,7 @@
+function a(hello){
+
+}
+function b(){
+    html()
+    css()
+}
