@@ -1,0 +1,7 @@
+function c(hi){
+
+}
+function a(hello){
+    html()
+    css()
+}
