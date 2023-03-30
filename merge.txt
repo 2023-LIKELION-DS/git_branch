@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+function c(hi){
+
+}
+function a(hello){
+=======
+function a(hello){
+
+}
+function b(){
+>>>>>>> crash
+    html()
+    css()
+}
