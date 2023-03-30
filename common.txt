@@ -1,13 +1,5 @@
-<<<<<<< HEAD
-function b(){
-
-}
-function c(main){
-=======
-function a(feature){
-
-}
-function b(){
->>>>>>> crash
-    
-}
+너무너무 어렵다
+잘 되고 있는 것 같기도 하고
+아닌 것 같기도 한데
+조금 뿌듯하고
+은근 재밌다..!
