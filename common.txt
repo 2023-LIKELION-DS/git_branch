@@ -1,13 +1,4 @@
-<<<<<<< HEAD
-function b(){
-
-}
-function c(main){
-=======
-function a(feature){
-
-}
-function b(){
->>>>>>> crash
-    
-}
+잘 되고 있는 것 같기도 하고 
+아닌 것 같기도 하고..
+많이 어렵네요..
+곧 익숙해지겠죠?
